@@ -6,39 +6,39 @@ adjective: "Divine"
 difficulty: Advanced
 difficulty_priority: 80
 aptitudes:
-  xp: -2
-  hp: 1
-  mp_mod: 2
+  xp: 4
+  hp: 4
+  mp_mod: 4
   mr: 4
-  fighting: -1
-  short_blades: -1
-  long_blades: -1
-  axes: -1
-  maces_and_flails: -1
-  polearms: -1
-  staves: -1
-  slings: -1
-  bows: -1
-  crossbows: -1
-  throwing: -1
-  armour: -1
-  dodging: -1
-  shields: -1
-  unarmed_combat: -1
-  spellcasting: -2
-  conjurations: -1
-  hexes: -1
-  summoning: -1
-  necromancy: -1
-  translocations: -1
-  transmutations: -1
-  fire_magic: -1
-  ice_magic: -1
-  air_magic: -1
-  earth_magic: -1
-  poison_magic: -1
+  fighting: 4
+  short_blades: 4
+  long_blades: 4
+  axes: 4
+  maces_and_flails: 4
+  polearms: 4
+  staves: 4
+  slings: 4
+  bows: 4
+  crossbows: 4
+  throwing: 4
+  armour: 4
+  dodging: 4
+  shields: 4
+  unarmed_combat: 4
+  spellcasting: 4
+  conjurations: 4
+  hexes: 4
+  summoning: 4
+  necromancy: 4
+  translocations: 4
+  transmutations: 4
+  fire_magic: 4
+  ice_magic: 4
+  air_magic: 4
+  earth_magic: 4
+  poison_magic: 4
   invocations: False
-  evocations: -1
+  evocations: 4
 str: 9
 int: 10
 dex: 9
